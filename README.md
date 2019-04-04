@@ -26,4 +26,4 @@ $ ionic serve
 ```
 
 ## 6. Download Ionic Devapp to run app native on mobile divice:
-[DevApp IOS](https://itunes.apple.com/us/app/ionic-devapp/id1233447133?ls=1&mt=8) && [DevApp Anroid](https://play.google.com/store/apps/details?id=io.ionic.devapp&hl=en)
+[DevApp IOS](https://itunes.apple.com/us/app/ionic-devapp/id1233447133?ls=1&mt=8) && [DevApp Android](https://play.google.com/store/apps/details?id=io.ionic.devapp&hl=en)
