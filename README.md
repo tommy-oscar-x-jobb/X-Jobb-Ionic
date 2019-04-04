@@ -10,7 +10,7 @@ Go to [Ionic website](https://ionicframework.com/docs/installation/cli) and foll
 ## 3. Clone the Github repository
 Download the repo as an zipfile or use the command:
 ```
-$ git clone https://github.com/Tickaren/X-Jobb-Ionic
+$ git clone https://github.com/tommy-oscar-x-jobb/X-Jobb-Ionic
 ```
 
 ## 4. Install dependencies:
