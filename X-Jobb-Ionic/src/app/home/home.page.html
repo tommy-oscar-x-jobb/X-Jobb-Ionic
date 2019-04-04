@@ -1,0 +1,44 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Experiments
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card class="experiment-card">
+    <ion-card-header>
+      <ion-card-title>ParsingExperiments:</ion-card-title>
+    </ion-card-header>
+    <ion-button class="experiment-button" (click)="parsingExperiment1()">ParsingExperiment 1</ion-button>
+    <ion-button class="experiment-button" (click)="parsingExperiment2()">
+      ParsingExperiment 2
+    </ion-button>
+    <ion-button class="experiment-button" (click)="parsingExperiment3()">
+      ParsingExperiment 3
+    </ion-button>
+    <ion-card-header>
+      <ion-card-title>GraphExperiments:</ion-card-title>
+    </ion-card-header>
+    <ion-button class="experiment-button" (click)="graphExperiment1()">GraphExperiment 1</ion-button>
+    <ion-button class="experiment-button" (click)="graphExperiment2()">
+      GraphExperiment 2
+    </ion-button>
+    <ion-button class="experiment-button" (click)="graphExperiment3()">
+      GraphExperiment 3
+    </ion-button>
+  </ion-card>
+  <ion-card>
+    <div id="container" style="display: block;"	></div>
+    <ion-card-header>
+      <ion-card-title>Logs:</ion-card-title>
+    </ion-card-header>
+    <ion-list class="logs-container">
+      <div *ngFor="let term of yourArray;">
+        <p>{{term}}</p>
+      </div>
+
+    </ion-list>
+  </ion-card>
+</ion-content>
