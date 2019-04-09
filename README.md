@@ -30,8 +30,19 @@ $ ionic serve
 
 # Screenchots:
 <img src="/Screenchots/ionic1.png" alt="Screenshot" width="200"/>
+Startsida på IOS use-case byggt med Ionic.
+
 <img src="/Screenchots/ionic2.jpg" alt="Screenshot" width="200"/>
+Startsida på Android use-case byggt med Ionic.
+
 <img src="/Screenchots/ionic3.png" alt="Screenshot" width="200"/>
+Resultat av “GraphExperiment 1” på IOS use-case byggt i Ionic -> Rendering av 684st datapunkter i graf med key-value pairs.
+
 <img src="/Screenchots/ionic4.jpg" alt="Screenshot" width="200"/>
+Resultat av “GraphExperiment 1” på Android use-case byggt i Ionic -> Rendering av 684st datapunkter i graf med key-value pairs.
+
 <img src="/Screenchots/ionic5.png" alt="Screenshot" width="200"/>
+Resultat av “GraphExperiment 1” på IOS use-case byggt i Ionic -> Vald datapunkt presenterad i popup fönster.
+
 <img src="/Screenchots/ionic6.jpg" alt="Screenshot" width="200"/>
+Resultat av “GraphExperiment 1” på Android use-case byggt i Ionic -> Vald datapunkt presenterad i popup fönster.
