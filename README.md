@@ -1,4 +1,5 @@
 # X-Jobb-Ionic
+All data from the experiments is included in Experiments.xlsx
 
 # Install instructions:
 ## 1. Install npm:
